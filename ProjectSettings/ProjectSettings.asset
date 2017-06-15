@@ -497,8 +497,9 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudServicesEnabled:
+    Collab: 1
+  cloudProjectId: 54decd81-1b0e-4b2f-bddb-aef6111be4ac
+  projectName: 'Tower Defense '
+  organizationId: arcsinw
   cloudEnabled: 0
