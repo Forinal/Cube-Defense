@@ -31,7 +31,8 @@ public class GameManager : MonoBehaviour {
 
     public void OnButtonRetry()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex );
+        SceneManager.LoadScene(1);
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex );
     }
     public void OnButtonMenu()
     {
